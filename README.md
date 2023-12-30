@@ -1,5 +1,7 @@
 This powershell script will use dism and trusted installer priviliges to remove defender permanently from the latest Windows 10 and 11 ISO files.
 
+Note: There will be folders created in Program Files and (x86) that are not owned by any user, leave these alone as they will prevent Windows Update from installing defender
+
 TO AVOID BUGS DO NOT OPEN FILE EXPLORER WHILE SCRIPT IS RUNNING
 
 USAGE EXAMPLE:
