@@ -11,7 +11,14 @@ USAGE EXAMPLE:
 ![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/4a9e9ea8-4ff0-4ab7-9b6c-d06ef233e681)
 
 
+![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/deaa0111-434a-4205-9686-ea3a7c9fecd2)
+
+
 ![Untitled1](https://github.com/zoicware/StripWindowsDefender/assets/118035521/e6456051-6c43-4900-818e-fe8cfa245686)
 
 
 ![Untitl2ed](https://github.com/zoicware/StripWindowsDefender/assets/118035521/a0de4b39-0719-41d1-afc0-9d174942aafa)
+
+
+
+
