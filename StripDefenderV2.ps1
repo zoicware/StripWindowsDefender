@@ -195,6 +195,16 @@ dism /image:$removeDir /Disable-Feature /FeatureName:$feature /Remove /NoRestart
 
 }
 
+#uninstall sec center app
+$packages = dism /image:$removeDir /get-provisionedappxpackages | Select-String "PackageName :"
+$packages = $packages -split "PackageName : " | Where-Object {$_}
+foreach($package in $packages){
+if($package -like "*SecHealth*"){
+Write-Host "Removing $package Package..."
+dism /image:$removeDir /Remove-ProvisionedAppxPackage /PackageName:$package
+}
+
+}
 
 Write-Host "Removing Defender Files..."
 
