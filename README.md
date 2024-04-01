@@ -1,21 +1,17 @@
 This powershell script will use dism and trusted installer privileges to remove defender permanently from the latest Windows 10 and 11 ISO files.
 
-Select OTHER when using non standard versions
-
-TO AVOID BUGS DO NOT OPEN FILE EXPLORER WHILE SCRIPT IS RUNNING
 
 USAGE EXAMPLE:
 
-![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/4a9e9ea8-4ff0-4ab7-9b6c-d06ef233e681)
+![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/5b039c6d-d06b-4619-aa03-3952c96cc15e)
 
 
-![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/deaa0111-434a-4205-9686-ea3a7c9fecd2)
+
+![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/3f6baabf-76fe-44bd-9ccf-e2e8d710c07d)
 
 
-![Untitled1](https://github.com/zoicware/StripWindowsDefender/assets/118035521/e6456051-6c43-4900-818e-fe8cfa245686)
 
 
-![Untitl2ed](https://github.com/zoicware/StripWindowsDefender/assets/118035521/a0de4b39-0719-41d1-afc0-9d174942aafa)
 
 
 
