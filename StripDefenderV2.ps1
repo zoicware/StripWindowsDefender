@@ -422,7 +422,7 @@ $removeButton.Add_Click({
 
             $form2 = New-Object System.Windows.Forms.Form
             $form2.Text = 'Choose Edition'
-            $form2.Size = New-Object System.Drawing.Size(400, (55 * $editions.Length))
+            $form2.Size = New-Object System.Drawing.Size(400, (50 * $editionTable.Count + 100))
             $form2.StartPosition = 'CenterScreen'
             $form2.BackColor = [System.Drawing.Color]::FromArgb(45, 45, 48)
 
@@ -459,7 +459,7 @@ $removeButton.Add_Click({
 
             # Create the OK button
             $okButton = New-Object System.Windows.Forms.Button
-            $okButton.Location = [System.Drawing.Point]::new(130, (55 * $editions.Length) - 80)
+            $okButton.Location = [System.Drawing.Point]::new(130, (50 * $editionTable.Count) + 20)
             $okButton.Size = [System.Drawing.Size]::new(120, 30)
             $okButton.BackColor = [System.Drawing.Color]::FromArgb(30, 30, 30)
             $okButton.ForeColor = [System.Drawing.Color]::White
