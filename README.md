@@ -11,6 +11,7 @@ USAGE EXAMPLE:
 
 
 
+![image](https://github.com/zoicware/StripWindowsDefender/assets/118035521/07885d01-812c-4acb-aa15-d378098efd68)
 
 
 
